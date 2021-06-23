@@ -1,10 +1,13 @@
 # net_work
-![alt text](https://github.com/KonradJuenger/net_work/blob/7a474461c49a5e83f21aa10754ebc77a602dffa2/readme_images/kjm4puPbQi.png)
+![](https://github.com/KonradJuenger/net_work/blob/7a474461c49a5e83f21aa10754ebc77a602dffa2/readme_images/kjm4puPbQi.png)
 
 tutorial coming soon....
 
+<img src="https://github.com/KonradJuenger/net_work/blob/76bc23aa36a2da472b26a14e38448b8528e0aa87/readme_images/KON_8265-1.jpg" width="35%" height="35%">
 
-![alt text](https://github.com/KonradJuenger/net_work/blob/6b57afa2c034f686bc9ddc9a64617113a6723342/readme_images/S8Yh2NwxXi.png)
+
+![](https://github.com/KonradJuenger/net_work/blob/6b57afa2c034f686bc9ddc9a64617113a6723342/readme_images/S8Yh2NwxXi.png)
+
 
 Generator itself is licensed under LGPL 3.0 https://choosealicense.com/licenses/lgpl-3.0/
 The source code can be found here: https://github.com/KonradJuenger/net_work/blob/main/sideTable.py
