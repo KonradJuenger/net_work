@@ -20,7 +20,7 @@ The actual .gcode files contained in and generated with the application are deri
 work of our orginal design and they as well as the resulting 3d prints are protected under copyright. 
 The following conditions apply:
 - You may use the the .gcode files for personal, non-commercial use.
-- With attibution to the original authors (Online)-Publication of works based on the application is permitted and appreciated.
+- (Online)-Publication of works based on the application is permitted and attibution to the original authors appreciated.
 - Re-distribution is prohibited, please link to preferably http://www.juengerkuehn.com/project/net_work/  or https://github.com/KonradJuenger/net_work/
 - For commercial and any non-private (exhibitions,etc) use please contact the original authors via mail@juengerkuehn.com
 
