@@ -1,14 +1,16 @@
 # net_work
-![](https://github.com/KonradJuenger/net_work/blob/7a474461c49a5e83f21aa10754ebc77a602dffa2/readme_images/kjm4puPbQi.png)
+![](readme_images/kjm4puPbQi.png)
 
 tutorial coming soon....
 
-[![net_work](https://github.com/KonradJuenger/net_work/blob/bebb5c7fc983c5634f81f79ed5b907e87c935dfc/readme_images/vlcsnap-2021-06-04-14h53m04s679.png)](https://vimeo.com/557631007 "net work - Click to Watch!")
+![](readme_images/net_work.mp4)
+
+
 
 <img src="https://github.com/KonradJuenger/net_work/blob/76bc23aa36a2da472b26a14e38448b8528e0aa87/readme_images/KON_8265-1.jpg" width="35%" height="35%">
 
 
-![](https://github.com/KonradJuenger/net_work/blob/6b57afa2c034f686bc9ddc9a64617113a6723342/readme_images/S8Yh2NwxXi.png)
+![](readme_images/S8Yh2NwxXi.png)
 
 
 Generator itself is licensed under LGPL 3.0 https://choosealicense.com/licenses/lgpl-3.0/
