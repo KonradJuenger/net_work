@@ -3,6 +3,8 @@
 
 tutorial coming soon....
 
+[![net_work](https://github.com/KonradJuenger/net_work/blob/bebb5c7fc983c5634f81f79ed5b907e87c935dfc/readme_images/vlcsnap-2021-06-04-14h53m04s679.png)](https://vimeo.com/557631007 "net work - Click to Watch!")
+
 <img src="https://github.com/KonradJuenger/net_work/blob/76bc23aa36a2da472b26a14e38448b8528e0aa87/readme_images/KON_8265-1.jpg" width="35%" height="35%">
 
 
@@ -12,7 +14,7 @@ tutorial coming soon....
 Generator itself is licensed under LGPL 3.0 https://choosealicense.com/licenses/lgpl-3.0/
 The source code can be found here: https://github.com/KonradJuenger/net_work/blob/main/sideTable.py
 
-To the actual .gcode files contained in and generated with the application are derivative 
+The actual .gcode files contained in and generated with the application are derivative 
 work of our orginal design and they as well as the resulting 3d prints are protected under copyright. 
 The following conditions apply:
 - You may use the the .gcode files for personal, non-commercial use.
